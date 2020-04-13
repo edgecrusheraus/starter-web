@@ -12,6 +12,10 @@ More text here about stuff
 
 Sample website with plenty of files for demos
 
+Adding purpose
+
 ## Deployment
+
+text here about stuff
 
 ## How To Contribute
